@@ -1,0 +1,15 @@
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\bin\Debug\TaskManagerWPFDomain.exe.config
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\bin\Debug\TaskManagerWPFDomain.exe
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\bin\Debug\TaskManagerWPFDomain.pdb
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.csprojAssemblyReference.cache
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\MainWindow.g.cs
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\App.g.cs
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain_MarkupCompile.cache
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain_MarkupCompile.lref
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\MainWindow.baml
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.g.resources
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.Properties.Resources.resources
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.csproj.GenerateResource.cache
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.csproj.CoreCompileInputs.cache
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.exe
+C:\Users\King\Desktop\TaskManager-master\TaskManagerWPFDomain\obj\Debug\TaskManagerWPFDomain.pdb
